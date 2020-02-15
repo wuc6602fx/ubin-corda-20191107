@@ -10,6 +10,6 @@
     "qdeploy": "node scripts/quickdeploy.js"
   },
   "dependencies": {
-    "yarn": "^0.24.5"
+    "yarn": "^1.22.0"
   }
 }
